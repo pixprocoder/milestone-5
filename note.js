@@ -4,5 +4,5 @@
  * Compiled vs interpreted
  * DOM (Document object model)
  * nobelist vs html collection
- *
+ * anonymous function
  */
